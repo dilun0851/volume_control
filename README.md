@@ -6,4 +6,4 @@ Key Keyboard:
 Exit program: 27/esc, dan
 Ganti kamera: c.
 
-Command running program: python volume_control.py
+Command running program: python volume_control.py.
