@@ -3,5 +3,5 @@ Hand volume control using python by Code F adalah aplikasi memudahkan orang menu
 
 Key Keyboard: 
 
-Exit program: 27/esc
+Exit program: 27/esc, dan
 Ganti kamera: c
